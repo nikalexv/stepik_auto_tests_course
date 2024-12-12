@@ -1,3 +1,2 @@
-# stepik_auto_tests_course
-test words
-111111111
+Здесь содержатся задачи из разделов 1 и 2
+
